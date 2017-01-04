@@ -5,6 +5,8 @@ import requests
 import lxml.html
 import re
 
+#see also: https://github.com/rarcega/instagram-scraper/blob/master/app.py
+
 #Copy and paste a column from excel within the ''' markers to create a variable
 pastedfromexcel = '''kerry_hill205
 stirchleywines
